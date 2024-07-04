@@ -1,0 +1,40 @@
+{
+  "name": "blog.wazar",
+  "version": "1.0.0",
+  "description": "wazar blog, blog wazar",
+  "main": "src/server.ts",
+  "scripts": {
+    "dev": "nodemon server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadKalimullahkhan/blog_wazar.git"
+  },
+  "keywords": [
+    "blog.wazar",
+    "wazar",
+    "blog",
+    "blog",
+    "wazar",
+    "wazarblog",
+    "blogwazar",
+    "wazar.pk",
+    "blog",
+    "blog",
+    "wazar.pk",
+    "blog.wazar.pk"
+  ],
+  "author": "Muhammad Kalimullah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuhammadKalimullahkhan/blog_wazar/issues"
+  },
+  "homepage": "https://github.com/MuhammadKalimullahkhan/blog_wazar#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.9"
+  }
+}
